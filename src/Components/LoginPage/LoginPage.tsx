@@ -85,6 +85,7 @@ export default class LoginPage extends React.Component<{}, IState> {
                                 retrieveImage={this.retrieveImage} 
                             />
                         </div>
+                        <div className="fb-like" data-href="https://questionapp.azurewebsites.net/dashboard" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"/>
                     </div>
                 </div>
 			</div>
