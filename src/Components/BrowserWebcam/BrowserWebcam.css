@@ -1,0 +1,17 @@
+.webcam-box {
+    background-color: #222;
+    border-radius: 40px;
+}
+
+.full-component-webcam {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 3px solid green; */
+}
+
+.webcam-button {
+    display: block;
+    margin: auto;
+}

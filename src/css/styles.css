@@ -1,0 +1,35 @@
+.centreText {
+    text-align: center;
+}
+
+h1 {
+    font-size: 150px;
+}
+
+.display-box {
+    display: block;
+    /* background-color: #fff793; */
+    background-color:rgba(255,247,147,0.6);
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+    padding: 10px;
+    color: #222;
+    /* opacity: 0.83; */
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.background-img {
+    /* background-image: url("./../Assets/Background/pexels-photo-949587.jpeg"); */
+    /* background-color: aquamarine; */
+    background-image: url("./../Assets/Background/100064_trees.jpg");
+    position: absolute; 
+    top: 52px;
+    min-width: 100%;
+    min-height: 100%;
+    overflow: auto;
+}
